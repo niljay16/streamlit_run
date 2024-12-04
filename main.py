@@ -13,6 +13,7 @@ if st.session_state.page == "main":
 
     # Display the list of names in batches
     st.subheader("List of Passers...")
+     st.subheader("Uploading 89%.....")
 
     # Batch 1
     batch_1 = [
