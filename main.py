@@ -12,7 +12,8 @@ if st.session_state.page == "main":
     st.title("DATA STRUCTURE AND ALGORITHM MOCK EXAM 2024")
 
     # Display the list of names in batches
-    st.subheader("List of Passers... uploading 99%")
+    st.subheader("List of Passers... loading.."
+                )
 
 
     # Batch 1
