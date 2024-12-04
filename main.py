@@ -14,7 +14,7 @@ if st.session_state.page == "main":
 
     # Batch 1
     batch_1 = [
-        "1. Fernandez, Nilou Jay"
+     
     ]
 
     # Display the list of names in the batch
