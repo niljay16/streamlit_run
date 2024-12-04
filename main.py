@@ -13,6 +13,6 @@ if st.session_state.page == "main":
     st.subheader("List of Passer...")
     batch_1 = [
       
-"Waiting...."
+"1. Fernandez, Nilou Jay"
     
     ]
