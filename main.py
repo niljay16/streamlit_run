@@ -7,8 +7,7 @@ if "page" not in st.session_state:
 # Page content for "main"
 if st.session_state.page == "main":
     # Title of the application
-    st.subheader("Polytechnic College of Davao Del Sur")
-    st.subheader("Student Council of Information Technology")
+  
     
     st.title("DATA STRUCTURE AND ALGORITHM MOCK EXAM 2024")
 
