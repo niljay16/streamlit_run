@@ -12,7 +12,7 @@ if st.session_state.page == "main":
     # Display the list of names in batches
     st.subheader("BATCH 1 | December 4, 2024 | 1PM TO 2PM")
     batch_1 = [
-        "1. Jose, Cyrel",
+      
         "2. Ubas, Prince Jerald",
         "3. Arnelia, Jaylord",
         "4. Palamos, Mary Chielo",
