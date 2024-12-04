@@ -18,7 +18,7 @@ if st.session_state.page == "main":
     batch_1 = [
      
     ]
-
+    st.subheader("To God Be the Glory")
     # Display the list of names in the batch
     for name in batch_1:
         st.write(name)
