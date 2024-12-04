@@ -17,8 +17,11 @@ if st.session_state.page == "main":
 
 
     # Batch 1
-    batch_1 = [
-     
+   batch_1 = [
+        "Agohob", "Albores", "Ampo", "Baguio", "Capiña", "Celeste",
+        "Diaz", "Escano", "Etulle", "Itang", "Jose", "Librea", "Lim", "Lumbab",
+        "Mariano", "Mendez", "Pahila", "Palamos", "Pasaol", "Perral", "Regidor",
+        "Retardo", "Ricaborda", "Sampiano", "Tandingan", "Ubas", "Vasquez", "Ybañez"
     ]
     st.subheader("To God Be the Glory")
     # Display the list of names in the batch
