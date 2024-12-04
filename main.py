@@ -14,7 +14,7 @@ if st.session_state.page == "main":
 
     # Batch 1 (list of tuples with name and new score)
     batch_1 = [
-        ("Regidor", 92.8),
+        ("Regidor", 92.8%),
         ("Pahila", 91.6),
         ("Ubas", 91.6),
         ("Perral", 90.4),
