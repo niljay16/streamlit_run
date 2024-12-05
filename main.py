@@ -42,7 +42,20 @@ if st.session_state.page == "main":
         ("Vasquez", 79.6),
         ("Jose", 76),
         ("Pasaol", 76),
-        ("Jay Bee Capoy", 73.6)
+        ("Jay Bee Capoy", 73.6),
+        # Adding new names
+        ("Abadiez", 88.2),
+        ("Amorado", 88.1),
+        ("Bandibas", 80.2),
+        ("Dalmacio", 82.6),
+        ("Davide", 88.4),
+        ("Fedriquilan", 78.9),
+        ("Mante", 80.2),
+        ("Mapandi", 84.0),
+        ("Mejias", 82.2),
+        ("Sagayno", 82.1),
+        ("Tampon", 84.6),
+        ("Watin", 82.4)
     ]
 
     st.subheader("To God Be the Glory")
