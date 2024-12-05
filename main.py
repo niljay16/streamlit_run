@@ -12,7 +12,7 @@ if st.session_state.page == "main":
     # Display the list of names in batches
     st.subheader("List of Passers.")
 
-    # Batch 1 (list of tuples with name and new score)
+    # Batch 1 (list of tuples with name and score)
     batch_1 = [
         ("Regidor", 92.8),
         ("Pahila", 91.6),
@@ -57,7 +57,10 @@ if st.session_state.page == "main":
         ("Watin", 82.4)
     ]
 
+    # Sorting the list by the score in descending order
+    batch_1_sorted = sorted(batch_1, key=lambda x: x[1], reverse=True)
+
     st.subheader("To God Be the Glory")
-    # Display the list of names with numbering and their corresponding scores
-    for idx, (name, score) in enumerate(batch_1, start=1):
+    # Display the sorted list of names with numbering and their corresponding scores
+    for idx, (name, score) in enumerate(batch_1_sorted, start=1):
         st.write(f"{idx}. {name} - {score}")
