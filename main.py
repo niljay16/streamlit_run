@@ -43,7 +43,6 @@ if st.session_state.page == "main":
         ("Jose", 76),
         ("Pasaol", 76),
         ("Jay Bee Capoy", 73.6),
-        # Adding new names
         ("Abadiez", 88.2),
         ("Amorado", 88.1),
         ("Bandibas", 80.2),
