@@ -41,6 +41,7 @@ if st.session_state.page == "main":
         ("Palamos", 79.6),
         ("Vasquez", 79.6),
         ("Jose", 76),
+   ("Madrigal", 76),
         ("Pasaol", 76),
         ("Jay Bee Capoy", 73.6),
         ("Abadiez", 88.2),
